@@ -12,3 +12,6 @@ Paste your color schemes into ~/.config/QtProject/qtcreator/styles
 
 ## Summer:
 ![Summer](screenshots/Summer.png)
+
+## One Dark (Atom)
+![One Dark](screenshots/OneDark.png)
