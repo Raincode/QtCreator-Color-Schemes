@@ -14,4 +14,5 @@ Paste your color schemes into ~/.config/QtProject/qtcreator/styles
 ![Summer](screenshots/Summer.png)
 
 ## One Dark (Atom)
+Works best with One Dark QtCreator Theme and an environment color like #313848
 ![One Dark](screenshots/OneDark.png)
