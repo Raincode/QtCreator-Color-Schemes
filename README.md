@@ -20,3 +20,4 @@ Works best with One Dark QtCreator Theme and an environment color like #313848
 ## Solarized Dark
 Comes included in QtCreator, but without a matching QtCreator theme (themes/solarized-dark.creatortheme).
 Recommended environment color for this theme: #0096c8 (or similar)
+![Solarized Dark](screenshots/SolarizedDark.png)
