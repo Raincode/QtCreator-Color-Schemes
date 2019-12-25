@@ -1,5 +1,8 @@
 # Windows
 Paste your color schemes into AppData/Roaming/QtProject/qtcreator/styles
+Paste your color themes into AppData/Roaming/QtProject/qtcreator/themes
+
+Alternatively, you can run the included `install_windows.bat` which does the same thing.
 
 # Linux
 Paste your color schemes into ~/.config/QtProject/qtcreator/styles
