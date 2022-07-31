@@ -5,7 +5,8 @@
 Alternatively, you can run the included `install_windows.bat` which does the same thing.
 
 # Linux
-* Paste your color schemes into `~/.config/QtProject/qtcreator/styles`
+* Paste your color *schemes* into `~/.config/QtProject/qtcreator/styles`
+* Paste your color *themes* into `~/.config/QtProject/qtcreator/themes`
 
 ## Vistual Studio Dark:
 ![VisualStudioDark](screenshots/VisualStudioDark.png)
