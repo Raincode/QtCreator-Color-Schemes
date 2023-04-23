@@ -5,6 +5,9 @@
   <style name="Selection" background="#3e4451"/>
   <style name="LineNumber" foreground="#4b5364"/>
   <style name="SearchResult" background="#43557b"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
+  <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
+  <style name="SearchResultContainingFunction"/>
   <style name="SearchScope"/>
   <style name="Parentheses"/>
   <style name="ParenthesesMismatch" foreground="#d83c66"/>
@@ -17,7 +20,9 @@
   <style name="Number" foreground="#d19a66"/>
   <style name="String" foreground="#98c379"/>
   <style name="Type" foreground="#56b6c2"/>
+  <style name="Namespace" foreground="#56b6c2"/>
   <style name="Local"/>
+  <style name="Parameter"/>
   <style name="Global"/>
   <style name="Field" foreground="#e06c75"/>
   <style name="Static" foreground="#56b6c2"/>
@@ -29,11 +34,12 @@
   <style name="Overloaded Operator" foreground="#c678dd"/>
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#c678dd"/>
+  <style name="Macro" foreground="#61afef"/>
   <style name="Label"/>
   <style name="Comment" foreground="#5c6370"/>
   <style name="Doxygen.Comment" foreground="#5c6370"/>
   <style name="Doxygen.Tag" foreground="#5e7a71" bold="true"/>
-  <style name="VisualWhitespace"/>
+  <style name="VisualWhitespace" foreground="#4c4c4c"/>
   <style name="QmlLocalId" italic="true"/>
   <style name="QmlExternalId" italic="true"/>
   <style name="QmlTypeId"/>
@@ -57,6 +63,11 @@
   <style name="DiffDestLine"/>
   <style name="DiffDestChar"/>
   <style name="LogChangeLine" foreground="#c00000"/>
+  <style name="LogAuthorName" foreground="#007af4"/>
+  <style name="LogCommitDate" foreground="#006600"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
   <style name="Warning" underlineColor="#ffbe00"/>
   <style name="WarningContext" underlineColor="#ffbe00"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
@@ -64,5 +75,16 @@
   <style name="Declaration" foreground="#61afef"/>
   <style name="FunctionDefinition" foreground="#61afef"/>
   <style name="OutputArgument" italic="true"/>
+  <style name="StaticMember"/>
+  <style name="CocoCodeAdded"/>
+  <style name="CocoPartiallyCovered" foreground="#808000"/>
+  <style name="CocoNotCovered" foreground="#ff0000"/>
+  <style name="CocoFullyCovered" foreground="#00ff00"/>
+  <style name="CocoManuallyValidated" foreground="#0000ff"/>
+  <style name="CocoDeadCode" foreground="#ff00ff"/>
+  <style name="CocoExecutionCountTooLow" foreground="#ff0000"/>
+  <style name="CocoNotCoveredInfo" foreground="#ff0000"/>
+  <style name="CocoCoveredInfo" foreground="#00ff00"/>
+  <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>

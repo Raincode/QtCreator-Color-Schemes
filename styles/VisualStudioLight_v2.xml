@@ -4,13 +4,13 @@
   <style name="Link" foreground="#000000" background="#ffffff"/>
   <style name="Selection" background="#add6ff"/>
   <style name="LineNumber" foreground="#2b91af"/>
-  <style name="SearchResult" foreground="#000000" background="#ffffff"/>
-  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
+  <style name="SearchResult" foreground="#000000" background="#f0b445"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#909c7f"/>
   <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
   <style name="SearchResultContainingFunction"/>
-  <style name="SearchScope" foreground="#000000" background="#ffffff"/>
+  <style name="SearchScope" foreground="#000000" background="#eceff9"/>
   <style name="Parentheses"/>
-  <style name="ParenthesesMismatch" foreground="#393939" background="#ffffff" bold="true"/>
+  <style name="ParenthesesMismatch" foreground="#393939" background="#ffffff"/>
   <style name="AutoComplete" foreground="#000080" background="#ffffff"/>
   <style name="CurrentLine" foreground="#07080a" background="#eaeaf2"/>
   <style name="CurrentLineNumber" foreground="#2b91af"/>
@@ -39,7 +39,7 @@
   <style name="Comment" foreground="#008000"/>
   <style name="Doxygen.Comment" foreground="#006400"/>
   <style name="Doxygen.Tag" foreground="#a9a9a9"/>
-  <style name="VisualWhitespace" foreground="#000000" background="#ffffff"/>
+  <style name="VisualWhitespace" foreground="#d8d8d8" background="#ffffff"/>
   <style name="QmlLocalId" foreground="#000000" background="#ffffff" italic="true"/>
   <style name="QmlExternalId" foreground="#000000" background="#ffffff" italic="true"/>
   <style name="QmlTypeId" foreground="#000000" background="#ffffff"/>
