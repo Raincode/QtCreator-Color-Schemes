@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# Experimental... not yet tested
-
 QT_DIR=~/.config/QtProject/qtcreator
 
 # Copy styles
