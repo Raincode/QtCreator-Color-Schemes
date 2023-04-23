@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Visual Studio Dark">
-  <style name="Text" foreground="#ebebeb" background="#1e1e1e"/>
+<style-scheme version="1.0" name="Visual Studio Dark v2">
+  <style name="Text" foreground="#dcdcdc" background="#1e1e1e"/>
   <style name="Link"/>
   <style name="Selection" background="#264f78"/>
   <style name="LineNumber" foreground="#2b91af" background="#191919"/>
-  <style name="SearchResult"/>
-  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
+  <style name="SearchResult" background="#623916"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#4f5f73"/>
   <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
   <style name="SearchResultContainingFunction"/>
-  <style name="SearchScope"/>
-  <style name="Parentheses"/>
-  <style name="ParenthesesMismatch"/>
+  <style name="SearchScope" background="#12202a"/>
+  <style name="Parentheses" foreground="#b4b4b4"/>
+  <style name="ParenthesesMismatch" foreground="#b4b4b4"/>
   <style name="AutoComplete"/>
   <style name="CurrentLine" background="#0f0f0f"/>
-  <style name="CurrentLineNumber" foreground="#2b91af" bold="true"/>
+  <style name="CurrentLineNumber" foreground="#2b91af"/>
   <style name="Occurrences"/>
   <style name="Occurrences.Unused"/>
   <style name="Occurrences.Rename"/>
-  <style name="Number" foreground="#afd99c"/>
+  <style name="Number" foreground="#b5cea8"/>
   <style name="String" foreground="#d69d85"/>
-  <style name="Type" foreground="#3dcaac"/>
-  <style name="Namespace" foreground="#3dcaac"/>
-  <style name="Local"/>
+  <style name="Type" foreground="#4ec9b0"/>
+  <style name="Namespace" foreground="#c8c8c8"/>
+  <style name="Local" foreground="#9cdcfe"/>
   <style name="Parameter" foreground="#9a9a9a"/>
   <style name="Global"/>
-  <style name="Field"/>
+  <style name="Field" foreground="#dadada"/>
   <style name="Static" foreground="#b0df90"/>
-  <style name="VirtualMethod" italic="true"/>
-  <style name="Function"/>
-  <style name="Keyword" foreground="#398ecf"/>
-  <style name="PrimitiveType" foreground="#3a87d0"/>
-  <style name="Operator"/>
-  <style name="Overloaded Operator"/>
-  <style name="Punctuation"/>
-  <style name="Preprocessor" foreground="#b853c1"/>
-  <style name="Macro"/>
+  <style name="VirtualMethod" foreground="#dcdcaa"/>
+  <style name="Function" foreground="#dcdcaa"/>
+  <style name="Keyword" foreground="#569cd6"/>
+  <style name="PrimitiveType" foreground="#569cd6"/>
+  <style name="Operator" foreground="#b4b4b4"/>
+  <style name="Overloaded Operator" foreground="#b4b4b4"/>
+  <style name="Punctuation" foreground="#b4b4b4"/>
+  <style name="Preprocessor" foreground="#9b9b9b"/>
+  <style name="Macro" foreground="#beb7ff"/>
   <style name="Label"/>
   <style name="Comment" foreground="#57a64a"/>
-  <style name="Doxygen.Comment" foreground="#006400"/>
-  <style name="Doxygen.Tag" foreground="#5e7a71" bold="true"/>
+  <style name="Doxygen.Comment" foreground="#57a64a"/>
+  <style name="Doxygen.Tag" foreground="#57a64a" bold="true"/>
   <style name="VisualWhitespace"/>
   <style name="QmlLocalId" italic="true"/>
   <style name="QmlExternalId" italic="true"/>
@@ -73,7 +73,7 @@
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration"/>
-  <style name="FunctionDefinition"/>
+  <style name="FunctionDefinition" foreground="#dcdcaa"/>
   <style name="OutputArgument" italic="true"/>
   <style name="StaticMember"/>
   <style name="CocoCodeAdded"/>

@@ -11,6 +11,13 @@ Alternatively, you can run the included `install_windows.bat` which does the sam
 ## Vistual Studio Dark:
 ![VisualStudioDark](screenshots/VisualStudioDark.png)
 
+## Visual Studio Dark v2:
+The newer version of Visual Studio changed things up a bit. This theme tries to adapt to those changes.
+It definitely seems more colorful.
+
+For a slight variation (if you prefer), color #d8a0df rgb(216,160,223) can be used, e.g., for keywords.
+Visual Studio only highlights certain control flow keywords with this color, but not all (e.g., struct, class, ...).
+
 ## Visual Studio Blue (Light):
 ![VisualStudioBlue](screenshots/VisualStudioBlue(Light).png)
 
