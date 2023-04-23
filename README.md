@@ -22,6 +22,11 @@ Visual Studio only highlights certain control flow keywords with this color, but
 ## Visual Studio Blue (Light):
 ![VisualStudioBlue](screenshots/VisualStudioBlue(Light).png)
 
+## Visual Studio Blue (Light) v2:
+Similarly to the Visual Studio Dark Theme, there are minor adjustments made in newer versions.
+Variation color: #8f08c4 rgb(143,  8,196) (see Visual Studio Dark v2)
+![VisualStudioBluev2](screenshots/VisualStudioBlue(Light)_v2.png)
+
 ## Summer:
 ![Summer](screenshots/Summer.png)
 
